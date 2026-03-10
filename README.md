@@ -62,3 +62,9 @@ A personal portfolio showcasing my projects and skills in front-end development.
 ![](https://github-readme-stats.vercel.app/api?username=khalidsamy&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsamy&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/khalidsamy/khalidsamy/blob/output/github-contribution-grid-snake.svg)
