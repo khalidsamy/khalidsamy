@@ -40,7 +40,7 @@ A personal portfolio showcasing my projects and skills in front-end development.
 ## 📫 Contact Me
 
 📧 Email: khalidsamy1231@gmail.com  
-📱 Phone: +20 1113697736  
+📱 Phone: +20 1148712424  
 💼 LinkedIn: https://www.linkedin.com/in/khalid-samy/  
 
 ---
