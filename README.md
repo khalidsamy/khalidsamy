@@ -57,6 +57,8 @@ A personal portfolio showcasing my projects and skills in front-end development.
 
 ## 📊 GitHub Stats
 
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsamy&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=khalidsamy&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsamy&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=khalidsamy&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsamy&layout=compact&theme=tokyonight)
