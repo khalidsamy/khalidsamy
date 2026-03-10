@@ -52,3 +52,11 @@ A personal portfolio showcasing my projects and skills in front-end development.
 ---
 
 ⭐ Always learning and building new things.
+
+---
+
+## 📊 GitHub Stats
+
+![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidsamy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidsamy&layout=compact&theme=tokyonight)
