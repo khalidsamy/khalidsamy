@@ -37,7 +37,7 @@ I also have a background in **Digital Marketing**, including SEO, content strate
 ## 🚀 Featured Projects
 
 ### Portfolio Website
-🔗 https://portfolio-sigma-blond-42.vercel.app/
+🔗 https://khalid-samy.vercel.app/
 
 A personal portfolio showcasing my projects and skills in front-end development.
 
